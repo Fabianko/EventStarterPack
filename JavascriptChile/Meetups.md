@@ -43,3 +43,13 @@ Las charlas son eventos educativos que cubren una variedad de temas dentro del c
 - Crear anuncio de agradecimiento post evento (Instagram, twitter, linkedin)
 - Crear anuncio de “Dar a conocer el impacto del evento” (Instagram, twitter, linkedin)
 - Envío de imágenes de gráfica rss al encargado del lugar. (Instagram feed/insta, linkedin, facebook)
+
+
+# Manual del mentor NodeSchool
+
+- identificar el nivel de conocimiento de los alumnos
+- agrupar los alumnos por nivel de experiencia
+  - agrupar los alumnos por interes de aprendizaje
+- apoyar a los grupos que no estén interactuando entre ellos
+- intentar rotar o distribuir los grupos entre todos los mentores
+- existen proyectos que estan deprecados, identificarlos y anotarlos en algun lugar
